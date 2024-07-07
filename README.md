@@ -1,5 +1,6 @@
 # JobSync: IT Job Portal
 
+## Website Link: https://job-sync-sigma.vercel.app/
 ## Overview
 
 The advent of technology has revolutionized the way job seekers connect, particularly in the Information Technology (IT) sector. This project aims to design and develop an innovative online job portal tailored specifically for the IT industry. JobSync offers a user-friendly interface for job seekers, incorporating advanced features to streamline the recruitment process. Job seekers can create profiles, specify their job preferences, and search for relevant job openings based on their roles and preferences. The portal integrates features such as email notifications, advanced search filters, and personalized recommendations to enhance user experience.
